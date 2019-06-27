@@ -1,0 +1,45 @@
+header{
+    background-color: azure;
+    border: 0px solid aquamarine;
+    padding: 10px;
+    float: inherit;
+    text-align: center;
+}
+
+p{
+    background-color: azure;
+    padding: 10px;
+    font-family: Century;
+    opacity: 0.6;
+    text-align: center;
+}
+
+.data{
+    background-color: azure;
+    text-align: center;
+}
+
+.avatar{
+    border-radius: 50%;
+    height: 13%;
+    width: 13%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.education{
+    background-color: azure;
+    text-align: center;
+}
+
+.employment{
+    padding-top: 0%;
+    background-color: azure;
+    text-align: center;
+}
+
+body{
+    background-color: azure;
+}

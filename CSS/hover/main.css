@@ -1,0 +1,45 @@
+.foo{
+    background-color: gray;
+    text-align: center;
+    padding-top: 30px;
+    margin: 30px;
+    min-width: 400px;
+    min-height: 200px;
+    border-radius: 5px;
+}
+
+p{
+    text-transform: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+
+div.foo:hover{
+    background-color: rebeccapurple;
+}
+
+p::first-letter{
+    text-transform: uppercase;
+    color: red;
+    font-size: 30px;
+}
+
+main {
+    margin: 30px;
+  }
+  .foo {
+    background-color: green;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid green;
+    margin-bottom: 20px;
+  }
+  
+  .bar {
+    display: inline-block;
+    font-size: 10px;
+    width: 100px;    
+    background-color: cadetblue;
+    padding: 10px;
+  }
