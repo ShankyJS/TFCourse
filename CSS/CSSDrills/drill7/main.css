@@ -38,3 +38,7 @@ main * {
 .green{
     background-color: green;
 }
+
+.box.foo, .circle.bar{
+    border: 2px solid black;
+}
